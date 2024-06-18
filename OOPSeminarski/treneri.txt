@@ -1,0 +1,3 @@
+nixa, zuzu, 100
+pera, peric,101
+mika, mikic, 102

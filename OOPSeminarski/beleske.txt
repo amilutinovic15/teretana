@@ -1,0 +1,7 @@
+sifrovanje/desifrovanje sifre
+opcija za nazad na dodavanju clana npr
+
+
+TRENING-DNEVNI-MESECNI
+USLOV PROVERA DA LI IMA ZA DNEVNI ILI MESECNI TRENING
+proveriti za mesecne da li je prosao rok npr
